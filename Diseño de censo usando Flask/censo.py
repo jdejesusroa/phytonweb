@@ -1,4 +1,4 @@
-pythonimport random
+from python import random
 
 censo = []
 alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZAEIOUAEOI"
